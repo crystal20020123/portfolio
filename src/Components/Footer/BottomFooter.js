@@ -14,34 +14,27 @@ const BottomFooter = () => {
   return (
     <Stack direction="row">
       <Typography variant="body1" component="p" sx={styles.Copyright}>
-        © {new Date().getFullYear()} David Lee.
+        © {new Date().getFullYear()} John Foo.
       </Typography>
       <Box>
         <Stack direction="row" sx={styles.Location}>
           <LocationOnIcon style={{ fontSize: "32px" }} />
           <Box>
             <Typography variant="body1" component="p">
-              Rochester, NY, USA
+              Kuala Lumpur, Malaysia
             </Typography>
           </Box>
         </Stack>
         <Stack direction="row" sx={styles.Address}>
           <Box>
-            <Link href="mailto:davidlee.techwizard@gmail.com">
+            <Link href="mailto:mlpioneer122@gmail.com">
               <a>
                 <EmailIcon style={{ fontSize: "32" }} />
               </a>
             </Link>
           </Box>
           <Box>
-            <Link href="tel:+380 97 053 6837">
-              <a>
-                <WhatsAppIcon style={{ fontSize: "32" }} />
-              </a>
-            </Link>
-          </Box>
-          <Box>
-            <Link href="https://t.me/CrystalTT2025">
+            <Link href="https://t.me/tradingTitan_off">
               <a>
                 <TelegramIcon style={{ fontSize: "32" }} />
               </a>
