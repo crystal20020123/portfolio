@@ -11,7 +11,7 @@ const Heads = () => {
       <meta property="og:title" content="John Foo | Software developer" />
       <meta
         property="og:description"
-        content="David is a software developer focused on AI and web development."
+        content="John is a software developer focused on AI and web development."
       />
       <title>John Foo | Software developer</title>
       <meta
