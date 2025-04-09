@@ -33,13 +33,13 @@ const BottomFooter = () => {
               </a>
             </Link>
           </Box>
-          <Box>
+          {/* <Box>
             <Link href="tel:+380 97 053 6837">
               <a>
                 <WhatsAppIcon style={{ fontSize: "32" }} />
               </a>
             </Link>
-          </Box>
+          </Box> */}
           <Box>
             <Link href="https://t.me/CrystalTT2025">
               <a>

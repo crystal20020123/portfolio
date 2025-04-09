@@ -74,13 +74,13 @@ const Drawers = ({ toggleDrawer }) => {
             </a>
           </Link>
         </Box>
-        <Box>
+        {/* <Box>
           <Link href="tel:+380 97 053 6837">
             <a>
               <WhatsAppIcon style={{ fontSize: "36px" }} />
             </a>
           </Link>
-        </Box>
+        </Box> */}
         <Box>
           <Link href="https://t.me/CrystalTT2025">
             <a>
