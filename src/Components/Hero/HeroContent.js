@@ -12,7 +12,7 @@ const HeroContent = () => {
     <Box sx={styles.Container}>
       <Typography variant="h2" component="h2" sx={styles.Title}>
         I am <br />
-        John Foo
+        David Lee
       </Typography>
       <Typography variant="h6" component="h6" sx={styles.Slogan}>
         You Dream, I Build

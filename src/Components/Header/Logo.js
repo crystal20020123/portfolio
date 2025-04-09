@@ -35,7 +35,7 @@ const Logo = () => {
               textDecoration: "underline",
             }}
           >
-            John Foo
+            David Lee
           </p>
         </Box>
       </Link>

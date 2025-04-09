@@ -31,18 +31,14 @@ const Drawers = ({ toggleDrawer }) => {
         </ButtonBase>
       </Stack>
       <Typography variant="body1" component="p" sx={styles.Description}>
-        Dynamic and results-driven Full Stack Generative AI Developer and
-        Machine Learning Engineer with 6years of experience in designing,
-        developing, and deploying innovative AI solutions. Proficient in
-        leveraging advanced machine learning algorithms and full-stack
-        development technologies to create scalable applications that enhance
-        user experience and drive business growth. Adept at collaborating with
-        cross-functional teams to translate complex requirements into functional
-        software, with a strong focus on performance optimization and code
-        quality. Passionate about staying at the forefront of AI advancements
-        and applying cutting-edge techniques to solve real-world problems. Feel
-        free to customize the 5 with your years of experience or any specific
-        technologies or frameworks you want to highlight.
+        David Lee is a dynamic software developer dedicated to delivering
+        innovative technology solutions tailored to meet the unique needs of our
+        clients. I collaborate closely with businesses to create custom software
+        applications that drive efficiency and enhance user experiences. I pride
+        myself on my commitment to quality, agility, and customer satisfaction,
+        ensuring that every project aligns with our clients&apos; goals. Whether
+        you are a startup or an established enterprise. I am here to turn your
+        vision into reality.
       </Typography>
       <Box sx={styles.Navs}>
         {Navs &&
@@ -66,20 +62,27 @@ const Drawers = ({ toggleDrawer }) => {
         </Box>
         <Box>
           <Typography variant="h6" component="p">
-            Kuala Lumpur, Malaysia
+            Rochester, NY, USA
           </Typography>
         </Box>
       </Stack>
       <Stack direction="row" sx={styles.Address}>
         <Box>
-          <Link href="mailto:mlpioneer122@gmail.com">
+          <Link href="mailto:davidlee.techwizard@gmail.com">
             <a>
               <EmailIcon style={{ fontSize: "36px" }} />
             </a>
           </Link>
         </Box>
         <Box>
-          <Link href="https://t.me/tradingTitan_off">
+          <Link href="tel:+380 97 053 6837">
+            <a>
+              <WhatsAppIcon style={{ fontSize: "36px" }} />
+            </a>
+          </Link>
+        </Box>
+        <Box>
+          <Link href="https://t.me/CrystalTT2025">
             <a>
               <TelegramIcon style={{ fontSize: "36px" }} />
             </a>

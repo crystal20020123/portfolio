@@ -8,12 +8,12 @@ const Heads = () => {
         content="https://fusion-softworks-agency.vercel.app/"
       />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="John Foo | Software developer" />
+      <meta property="og:title" content="David Lee | Software developer" />
       <meta
         property="og:description"
-        content="John is a software developer focused on AI and web development."
+        content="David is a software developer focused on AI and web development."
       />
-      <title>John Foo | Software developer</title>
+      <title>David Lee | Software developer</title>
       <meta
         name="description"
         content="I am a software developer focused on AI and web development, build products using cutting edge technologies. Always friendly and provide excellent service."
